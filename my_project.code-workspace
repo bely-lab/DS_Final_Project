@@ -1,0 +1,28 @@
+{
+    "folders": [
+      {
+        "path": "."  
+      }
+    ],
+    "settings": {
+      "python.pythonPath": "venv/Scripts/python",  // Adjust to linux and macOs
+      "python.envFile": "${workspaceFolder}/.env",
+      "editor.formatOnSave": true,
+      "files.exclude": {
+        "**/__pycache__": true,
+        "**/.pytest_cache": true,
+        "**/.mypy_cache": true,
+        ".DS_Store": true
+      }
+    },
+    "extensions": {
+      "recommendations": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "ms-pyright.pyright",
+        "ms-python.black-formatter",
+        "ms-python.isort"
+      ]
+    }
+  }
+  

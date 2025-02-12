@@ -1,0 +1,353 @@
+Was your employer primarily a tech company/organization?,What is your age?,What is your gender?,Do you have a family history of mental illness?,Have you had a mental health disorder in the past?,Does your employer provide mental health benefits as part of healthcare coverage?,Have you ever discussed your mental health with your employer?,Do you *currently* have a mental health disorder?
+False,25,Male,No,No,I don't know,False,Don't Know
+False,51,male,Yes,Possibly,Yes,False,Possibly
+True,27,Male,I don't know,No,I don't know,False,No
+True,37,male,Yes,No,I don't know,False,No
+True,46,m,No,No,I don't know,False,No
+True,36,female,Yes,Yes,Yes,False,Yes
+False,39,Female,Yes,Yes,Yes,False,Yes
+True,35,Male,Yes,No,,,Possibly
+False,49,,No,Yes,Yes,False,No
+True,45,Male,I don't know,Don't Know,I don't know,False,Possibly
+,40,M,No,Possibly,Yes,True,Possibly
+True,37,male,No,No,,,No
+True,31,Male,Yes,Possibly,I don't know,False,Possibly
+,37,Male,Yes,Yes,Yes,True,Yes
+True,26,female,No,Don't Know,Yes,False,Yes
+False,43,M,No,Possibly,Yes,True,Yes
+False,35,Male,Yes,Yes,Yes,True,Possibly
+True,31,male,Yes,No,,,No
+False,32,F,Yes,Possibly,Yes,False,Possibly
+True,37,Male,I don't know,Possibly,Yes,False,Yes
+True,41,Male,I don't know,Don't Know,I don't know,True,No
+False,40,f,Yes,Yes,Yes,True,Yes
+True,37,male,I don't know,Yes,I don't know,True,Yes
+True,53,"Let's keep it simple and say ""male""",Yes,Yes,Yes,True,Possibly
+False,29,male,Yes,Possibly,I don't know,False,No
+True,37,Male,Yes,Yes,I don't know,True,Yes
+True,45,female,Yes,Yes,I don't know,False,Yes
+True,26,Male,No,No,I don't know,True,Possibly
+True,28,Male,Yes,Yes,Yes,True,Yes
+,24,Female,I don't know,Yes,Yes,True,Yes
+True,27,Male,Yes,Possibly,Yes,False,Possibly
+False,42,Male,No,Yes,Yes,False,No
+True,53,Female,No,No,,,No
+True,34,Male,No,Don't Know,Not eligible for coverage / NA,False,Possibly
+True,23,Non-binary,I don't know,Possibly,Yes,True,Yes
+,34,M,I don't know,No,I don't know,False,Don't Know
+True,27,Male,Yes,Possibly,I don't know,False,Possibly
+False,31,Male,I don't know,Possibly,Yes,False,Possibly
+True,30,Male,No,No,,,No
+True,58,Male,No,Yes,,,Yes
+False,50,Male,No,No,Yes,False,No
+True,41,Male,Yes,Yes,Yes,True,Yes
+True,40,male,No,Don't Know,I don't know,False,Possibly
+True,28,Male,I don't know,Yes,,,Yes
+True,49,Identify as male,No,Possibly,Yes,True,No
+,37,Male,Yes,Yes,I don't know,True,Yes
+True,36,m,I don't know,Possibly,,,Yes
+False,52,Male,No,Yes,Yes,True,Possibly
+False,33,,I don't know,No,Yes,False,No
+True,54,Female,I don't know,No,,,No
+True,38,Male,No,No,,,Don't Know
+False,64,Male,No,Yes,,,Yes
+True,40,Male,No,No,,,Don't Know
+True,37,Male,I don't know,Possibly,Yes,False,Yes
+False,53,Female,No,Yes,I don't know,False,Yes
+True,55,male,I don't know,No,No,False,No
+True,30,Male,Yes,Yes,I don't know,True,Possibly
+True,35,Male,Yes,Yes,Yes,False,No
+False,60,Male ,Yes,Possibly,Yes,False,Possibly
+False,34,female,No,No,Yes,False,No
+True,35,Male,Yes,Yes,No,True,No
+True,34,Male,Yes,Yes,Yes,False,Possibly
+False,28,Male,Yes,No,I don't know,True,Don't Know
+True,28,Woman,Yes,Yes,I don't know,False,Yes
+True,36,,No,No,I don't know,False,No
+,24,Male,I don't know,No,No,False,Don't Know
+True,50,Male,I don't know,No,,,No
+True,55,Male,I don't know,Possibly,Yes,False,Possibly
+False,32,Male,No,Possibly,Yes,True,Yes
+False,33,Male,I don't know,Don't Know,Yes,True,Possibly
+True,30,Female,Yes,Yes,Yes,True,Yes
+True,30,Male,Yes,No,Yes,False,Possibly
+True,34,Male,I don't know,No,Yes,False,No
+True,36,Female,Yes,Possibly,No,False,Possibly
+,30,Male,Yes,Yes,No,False,Yes
+True,29,Male,No,No,No,False,No
+,34,M,Yes,Possibly,No,False,No
+True,40,M,No,No,No,True,Possibly
+True,31,Non binary,I don't know,No,Not eligible for coverage / NA,False,Possibly
+True,27,Masculine,Yes,No,I don't know,False,No
+False,47,M,Yes,No,Yes,False,Possibly
+,24,Female,Yes,Possibly,Yes,False,Yes
+True,36,Male,No,No,Yes,False,No
+True,28,male,I don't know,No,I don't know,False,No
+True,34,Male,No,No,Yes,True,No
+True,28,Male,No,No,I don't know,False,No
+True,36,M,Yes,Possibly,Yes,False,No
+,24,male,I don't know,No,Yes,False,Don't Know
+True,32,Cishet male,Yes,Possibly,Yes,False,Possibly
+True,33,Male,I don't know,Yes,No,False,Yes
+True,39,Male,I don't know,No,I don't know,False,No
+,26,female,I don't know,Yes,Yes,False,Yes
+False,32,Female,Yes,Yes,Yes,False,Yes
+True,42,Male,I don't know,Yes,Yes,False,No
+False,41,M,I don't know,Yes,Yes,False,Yes
+True,32,Male,Yes,Yes,Yes,False,Possibly
+,32,F,Yes,Don't Know,No,False,Don't Know
+True,31,Female,Yes,Yes,Yes,False,No
+False,34,Non-binary,Yes,Yes,Not eligible for coverage / NA,False,Yes
+True,36,,Yes,Possibly,Yes,False,Possibly
+False,33,male,No,No,I don't know,False,No
+False,30,male,Yes,Yes,I don't know,False,Yes
+True,45,Female,Yes,Yes,I don't know,True,Yes
+True,30,Male,No,No,Yes,False,No
+True,48,Male,Yes,Yes,,,Possibly
+True,29,Male,I don't know,Don't Know,Yes,False,Possibly
+True,35,Female-identified,I don't know,Yes,,,Yes
+False,41,Male,I don't know,,I don't know,False,Yes
+False,27,F,Yes,No,Yes,False,Possibly
+True,42,Male,I don't know,Yes,Yes,True,Possibly
+False,32,male,Yes,Possibly,I don't know,False,Possibly
+True,32,Male,No,No,I don't know,False,No
+False,20,Woman,Yes,Yes,Yes,False,Yes
+False,24,woman,Yes,Yes,,,Yes
+False,0,male,No,No,I don't know,False,No
+True,38,Male,No,No,I don't know,False,No
+False,31,Male,I don't know,Yes,I don't know,False,Yes
+,26,M,Yes,Yes,Yes,False,Yes
+True,40,Male,Yes,Yes,Yes,True,Yes
+False,30,male,Yes,Yes,Yes,False,Yes
+True,38,Male,No,Don't Know,Yes,False,Yes
+True,28,male,No,No,Yes,True,No
+False,28,Female,No,No,Not eligible for coverage / NA,False,Don't Know
+True,30,Male,Yes,Possibly,Yes,True,Yes
+,23,Nonbinary,Yes,Yes,Yes,True,Yes
+,30,male,I don't know,Don't Know,I don't know,True,Don't Know
+False,33,female,Yes,Yes,Yes,True,Yes
+False,53,Female,Yes,No,Yes,False,No
+False,38,Male,I don't know,Yes,Yes,True,Yes
+False,34,male,No,Yes,No,False,Possibly
+False,40,Male,I don't know,No,I don't know,False,No
+False,42,Male,Yes,No,Yes,False,No
+False,42,Male,I don't know,Yes,Yes,True,Yes
+False,38,Male,I don't know,Yes,Yes,False,Yes
+False,33,agender,Yes,Yes,Yes,True,Yes
+True,35,Male,Yes,Yes,Yes,False,Yes
+,27,Female,I don't know,Possibly,No,False,Possibly
+False,28,Female,No,No,Not eligible for coverage / NA,True,No
+True,42,Male,No,,No,False,Yes
+,35,f,I don't know,Don't Know,I don't know,False,Don't Know
+False,40,Male,No,Possibly,Yes,False,No
+False,54,female,Yes,Yes,Yes,False,Yes
+True,37,male,Yes,Yes,Yes,False,No
+False,26,Female,I don't know,No,Yes,True,Yes
+False,37,Male,I don't know,Don't Know,I don't know,False,Possibly
+False,49,Female,I don't know,Yes,Yes,False,Yes
+,23,Male,No,No,I don't know,False,No
+True,42,Female,I don't know,Possibly,Yes,True,Yes
+,49,Male,No,Don't Know,Yes,True,Possibly
+True,38,male,No,Don't Know,,,Don't Know
+True,41,F,Yes,No,I don't know,False,No
+True,33,male,No,Possibly,Yes,True,No
+True,27,Man,Yes,Yes,Yes,True,Yes
+True,47,male,No,No,Yes,False,No
+,28,Male,Yes,Yes,I don't know,False,Yes
+True,49,Female,Yes,Yes,Yes,False,Yes
+False,23,Male,I don't know,Possibly,I don't know,False,Possibly
+False,23,Questioning,I don't know,Yes,Yes,False,Yes
+False,38,cis male,Yes,Yes,,,Yes
+True,45,Male,Yes,Yes,No,True,Yes
+True,35,male,Yes,Possibly,,,Possibly
+True,51,Male,Yes,Yes,,,Yes
+True,34,female,Yes,Possibly,,,No
+True,29,male,Yes,Yes,Yes,True,Possibly
+True,40,Male,I don't know,Don't Know,I don't know,False,Possibly
+,38,male,No,Possibly,,,Possibly
+False,32,Cis Male,Yes,Yes,Yes,False,Yes
+,22,female,Yes,Yes,Yes,True,Yes
+True,28,Male,Yes,Yes,Yes,True,Yes
+True,29,female,I don't know,Yes,I don't know,False,Yes
+False,32,I have a penis,No,Possibly,,,No
+False,38,female,Yes,Yes,Yes,False,Yes
+True,30,Male,No,No,I don't know,False,No
+False,37,Female,Yes,Yes,Yes,False,Yes
+False,38,Female,Yes,Yes,Yes,False,Yes
+True,51,F,Yes,Yes,Yes,True,Yes
+True,39,Male,Yes,Yes,Yes,True,Yes
+False,22,Male,No,No,Yes,False,Don't Know
+True,26,Male,Yes,Yes,Yes,True,Yes
+,42,m,Yes,Possibly,I don't know,False,Possibly
+True,49,male,No,Yes,Not eligible for coverage / NA,True,Yes
+True,48,Male,Yes,No,Yes,False,No
+,25,male,Yes,Yes,Yes,False,No
+True,31,Male,I don't know,Yes,Not eligible for coverage / NA,True,Yes
+True,63,Male,No,No,Yes,False,No
+False,30,Female,No,No,No,False,Don't Know
+False,34,male,I don't know,Yes,I don't know,False,No
+False,41,Male,Yes,Possibly,No,True,Possibly
+True,31,Male,Yes,Possibly,No,True,Possibly
+True,29,Woman,Yes,No,I don't know,False,No
+True,29,Male,Yes,Yes,Yes,False,Possibly
+True,44,rr,Yes,Yes,,,Yes
+True,32,male,No,No,I don't know,False,Possibly
+True,28,Male,Yes,Possibly,I don't know,False,No
+,36,Male,I don't know,No,Yes,False,Yes
+False,28,cis woman,Yes,Yes,I don't know,False,Don't Know
+True,30,Female,Yes,Yes,,,Yes
+True,36,Male,No,No,Yes,False,No
+True,40,Male,Yes,Yes,Yes,True,Yes
+True,27,Male,No,No,I don't know,False,Don't Know
+False,28,female,Yes,Yes,Yes,True,Yes
+False,34,male,Yes,Yes,Yes,True,Yes
+False,34,Male,I don't know,Don't Know,Yes,True,Yes
+False,34,Female,Yes,Yes,,,Yes
+False,27,Female,Yes,Yes,Yes,True,Yes
+,44,female,Yes,Yes,Yes,False,Possibly
+False,36,Male,I don't know,Possibly,No,True,Yes
+True,31,female,Yes,Yes,Yes,True,Yes
+True,26,Agender trans woman,No,Yes,Yes,False,Yes
+True,39,male,No,No,Yes,True,No
+True,36,Female,Yes,Yes,Yes,True,Yes
+True,25,Female,Yes,Yes,Not eligible for coverage / NA,False,Yes
+True,47,m,I don't know,Yes,No,False,Yes
+True,38,Male,I don't know,Yes,Yes,True,Possibly
+True,33,male,No,Possibly,I don't know,True,Don't Know
+True,59,Female ,I don't know,Yes,,,Possibly
+True,39,Male,Yes,Possibly,Yes,False,Possibly
+False,19,female,I don't know,Yes,Not eligible for coverage / NA,False,Yes
+True,35,Male,Yes,Yes,Not eligible for coverage / NA,False,Yes
+False,38,male,Yes,Yes,Yes,False,Yes
+,23,femmina,No,No,I don't know,False,No
+,32,Male,Yes,Yes,Yes,True,Yes
+True,39,male,Yes,Don't Know,,,Yes
+,33,Male,No,No,Yes,False,No
+True,38,Female,No,Possibly,I don't know,True,Yes
+True,42,Male,No,Yes,Yes,False,Possibly
+False,39,female,No,No,I don't know,False,Possibly
+True,30,Male,No,No,Not eligible for coverage / NA,False,Don't Know
+True,39,male,I don't know,Yes,No,True,Possibly
+,50,male,Yes,Don't Know,I don't know,False,No
+True,43,43,No,No,I don't know,False,No
+True,59,Female,No,Possibly,,,Possibly
+False,53,male,Yes,Yes,Yes,False,Yes
+True,35,Male,I don't know,Possibly,Yes,False,No
+False,27,Female,Yes,No,Yes,False,No
+True,24,female,Yes,No,Yes,False,Possibly
+False,29,Trans man,Yes,Yes,Yes,False,Yes
+True,40,female,Yes,Possibly,Yes,False,Yes
+True,27,Male,No,Don't Know,Not eligible for coverage / NA,False,Don't Know
+True,46,Male,Yes,Possibly,,,No
+True,39,male,No,No,No,False,Yes
+True,19,man,I don't know,Don't Know,,,Don't Know
+False,28,male,No,No,No,False,No
+False,30,Male,Yes,No,I don't know,False,No
+False,29,Female,I don't know,Possibly,Yes,False,Yes
+,24,Male,I don't know,Possibly,I don't know,False,No
+False,25,Female,Yes,Yes,Not eligible for coverage / NA,True,Yes
+False,45,M,I don't know,Possibly,I don't know,False,No
+True,37,Male,No,Yes,Yes,False,Yes
+,22,Male,Yes,No,I don't know,False,No
+True,35,Female,Yes,Yes,Yes,True,Yes
+True,50,Male,Yes,Yes,I don't know,False,Yes
+True,45,Male,I don't know,Possibly,Yes,True,Yes
+True,49,Male,I don't know,Yes,Not eligible for coverage / NA,False,Yes
+False,40,Male,No,No,No,False,No
+True,32,Male,Yes,Possibly,,,Possibly
+True,38,F,No,No,Yes,False,No
+False,37,M,Yes,No,Yes,True,Possibly
+,28,Woman,No,Don't Know,I don't know,True,Possibly
+,25,m,No,No,Yes,False,Don't Know
+,28,Male,Yes,No,,,No
+True,38,Male,Yes,Possibly,Not eligible for coverage / NA,False,Possibly
+,25,male,No,No,I don't know,False,No
+,49,male,I don't know,,Yes,True,Yes
+True,19,masculino,No,Don't Know,Yes,True,Don't Know
+False,43,male,No,No,,,Don't Know
+True,31,Male,No,Possibly,Yes,True,Don't Know
+True,30,Male,Yes,Yes,Yes,True,Yes
+False,39,male,Yes,Yes,I don't know,True,Yes
+,22,male,No,Yes,Not eligible for coverage / NA,True,Yes
+False,29,Male,Yes,Yes,Yes,False,Yes
+True,30,Male,Yes,Possibly,,,Yes
+True,32,male,No,Possibly,Yes,False,Yes
+True,41,Male,Yes,Yes,No,True,Yes
+,27,F,No,No,I don't know,False,Possibly
+,19,female,I don't know,Possibly,,,Possibly
+True,27,Male,I don't know,Possibly,Yes,True,Yes
+,31,Male,I don't know,Possibly,,,Possibly
+True,25,Female,No,Yes,,,No
+,36,male,I don't know,Yes,No,True,No
+False,28,F,Yes,Yes,No,False,Yes
+True,27,f,I don't know,Possibly,Yes,False,Possibly
+True,47,,Yes,Yes,Yes,True,Yes
+True,25,Male,I don't know,Possibly,I don't know,False,Yes
+,30,female,No,Possibly,I don't know,False,No
+True,45,M,Yes,Yes,Not eligible for coverage / NA,False,Yes
+True,41,I am a Wookie,Yes,Don't Know,,,Possibly
+True,24,Female,I don't know,No,No,False,Possibly
+True,26,Female ,I don't know,No,I don't know,False,No
+True,32,female,Yes,Yes,Yes,False,Yes
+False,43,female,Yes,Yes,Yes,False,Yes
+True,37,Male,No,No,,,No
+False,51,Make,Yes,Possibly,I don't know,True,Yes
+False,56,Male,No,No,,,No
+,30,Male,Yes,Yes,Yes,False,Possibly
+False,48,Trans non-binary/genderfluid,Yes,No,I don't know,False,No
+True,28,Female,I don't know,Yes,Yes,False,Yes
+False,26,Female,No,Yes,No,False,Yes
+True,45,male,No,No,No,False,No
+True,37,m,No,No,Yes,False,No
+True,42,Female,I don't know,Yes,Yes,True,Yes
+False,34,Male,I don't know,Possibly,I don't know,False,Yes
+True,35,Female,Yes,Possibly,I don't know,False,No
+,28,male,No,No,Yes,False,Yes
+True,26,Male,I don't know,No,I don't know,False,No
+,34,F,No,No,I don't know,False,Don't Know
+True,28,,No,No,I don't know,False,No
+False,34,Female,Yes,Yes,Yes,True,No
+True,45,Male,No,No,,,No
+True,59,Female,I don't know,Yes,,,Possibly
+True,41,Male,Yes,Yes,I don't know,False,Yes
+True,38,,Yes,Yes,Yes,True,Yes
+True,42,Female,Yes,Possibly,Yes,True,No
+False,21,Male,Yes,Don't Know,I don't know,True,Yes
+False,30,female,Yes,No,Yes,False,No
+False,46,CIS Male,No,Possibly,Yes,True,Yes
+False,36,female,Yes,Yes,,,Yes
+True,41,Male,No,No,I don't know,False,No
+False,33,Female,No,Yes,,,Yes
+True,41,m,No,Yes,Yes,True,Yes
+,25,Male,Yes,Possibly,Yes,False,Possibly
+,27,agender,Yes,Yes,No,True,Yes
+False,47,Female,I don't know,Yes,I don't know,False,Yes
+False,24,Male,I don't know,Yes,Yes,False,Yes
+False,40,male,No,No,Yes,True,Yes
+True,37,M,I don't know,No,Yes,False,No
+True,38,Male,I don't know,No,I don't know,False,Don't Know
+True,47,Male,No,No,I don't know,False,No
+False,30,Female,Yes,Yes,Yes,True,Yes
+,24,Female,Yes,Yes,Not eligible for coverage / NA,True,Possibly
+,38,Female,Yes,Yes,Yes,True,Yes
+True,42,Male,Yes,No,Yes,True,Yes
+False,39,Male,No,Possibly,No,False,No
+True,42,Male,I don't know,Yes,I don't know,False,Possibly
+True,47,male,Yes,Yes,Yes,True,Yes
+True,29,Male,No,No,Yes,False,No
+,55,M,Yes,No,Yes,False,No
+True,34,Non-binary and gender fluid,Yes,Yes,I don't know,False,Yes
+True,45,Male,No,Possibly,Yes,False,No
+False,46,male,Yes,Possibly,I don't know,False,No
+,23,Female,I don't know,Possibly,Yes,False,Possibly
+,22,female,Yes,Possibly,No,False,Possibly
+True,30,Male,Yes,Yes,No,True,Yes
+True,27,Male,I don't know,Yes,,,Yes
+True,42,Female,Yes,Yes,Yes,False,Yes
+,26,Femile,Yes,Yes,Yes,True,No
+,31,female,No,No,No,False,No
+False,27,male,No,No,I don't know,False,Possibly
+False,48,m,No,No,,,No
+,50,M,No,No,,,No
+True,30,female,No,No,No,False,Possibly
+False,24,Female (cis),Yes,Yes,Yes,True,Yes

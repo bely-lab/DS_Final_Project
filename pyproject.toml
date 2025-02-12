@@ -1,0 +1,21 @@
+[tool]
+name = "mental_health_prediction"
+version = "0.1.0"
+description = "Replicating a project to predict mental health disorders using ML"
+authors = ["Beaynesh <tslatebely@gmail.com>"]
+
+[build-system]
+requires = ["setuptools>=40.8.0"]
+build-backend = "setuptools.build_meta"
+
+[mypy]
+plugins = ["pandas-stubs"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+addopts = "--maxfail=1 --disable-warnings -q"
+
+[dependencies]
+pytest = "^7.1"
