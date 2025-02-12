@@ -18,8 +18,8 @@ The primary objectives of this replication project are to:
 Additionally, a feature importance analysis is conducted to identify which factors are most predictive of mental health disorders in the workplace.
 ### Folder/Module Structure
 - **`data/`**: Contains datasets for the project.
-  - `raw_data.csv`: Original dataset.
-  - `unprocessed_data.csv`: Data with selected features.
+  - `raw_OSMI_data.csv`: Original dataset.
+  - `filtered_data.csv`: Data with selected features.
   - `processed_data.csv`: Cleaned data ready for training.
 
 - **`notebooks/`**: Jupyter notebooks for analysis and visualization.
@@ -51,7 +51,7 @@ The project follows these steps:
 4. Model Selection:
    - Train and evaluate seven models(The six models in the paper and one additional) including KNN, SVM, Random Forest,Decision tree, Naivebayes and XGBoost.
    
-For detailed  documentation, refer to the full project documentation in .Results/Documnetation.pdf
+For detailed  documentation, refer to the full project documentation in (Results/Documnetation.pdf)
 
 ## To Run the Project:
 
