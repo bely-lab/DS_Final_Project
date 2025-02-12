@@ -17,7 +17,26 @@ The primary objectives of this replication project are to:
 - Examine the performance of different machine learning models on the OSMI dataset.
 Additionally, a feature importance analysis is conducted to identify which factors are most predictive of mental health disorders in the workplace.
 ### Folder/Module Structure
-project_root/ │ ├── data/ │ ├── raw_data.csv # Raw data from the OSMI Survey │ ├── unprocessed_data.csv # Data with selected features for training │ └── processed_data.csv # Cleaned and processed data for model training │ ├── notebooks/ │ ├── data_distribution_analysis.ipynb # Data distribution visualization and analysis │ ├── model_comparison.ipynb # Model comparison after training │ ├── feature_importance.ipynb # Feature importance analysis │ └── confusion_matrix.ipynb # Confusion matrix for model evaluation │ ├── src/ │ ├── train.py # Script for training machine learning models │ ├── models.py # Contains six different models for prediction (KNN, SVM, etc.) │ ├── main.py # Main script to initiate model training and analysis │ ├── utils.py # Helper functions for loading data and pre-processing │ ├── preprocess.py # Preprocessing functions for cleaning data and handling missing values │ └── logger.py # Logger functions for recording the progress of model training │ ├── test/ │ └── test_functions.py # Unit tests for major functions like data loading, preprocessing, and model evaluation │ └── README.md # Project documentation
+- **`data/`**: Contains datasets for the project.
+  - `raw_data.csv`: Original dataset.
+  - `unprocessed_data.csv`: Data with selected features.
+  - `processed_data.csv`: Cleaned data ready for training.
+
+- **`notebooks/`**: Jupyter notebooks for analysis and visualization.
+  - `data_analysis.ipynb`: Data exploration and visualization.
+  - `model_comparison.ipynb`: Model performance comparison.
+  - `feature_importance.ipynb`: Feature importance analysis.
+  - `evaluation.ipynb`: Confusion matrix evaluation.
+
+- **`src/`**: Core scripts for processing, training, and utilities.
+  - `train.py`: Model training script.
+  - `models.py`: Defines and loads machine learning models.
+  - `main.py`: Main entry point to initiate the pipeline.
+  - `utils.py`: Helper functions for data handling.
+  - `preprocess.py`: Data cleaning and preprocessing functions.
+  - `logger.py`: Logging script for tracking progress.
+- **`test/`**: Unit tests for major functions.
+  - `test_functions.py`: Tests for data loading, preprocessing, and evaluation.
 ### Project Workflow/Pipeline: 
 The project follows these steps:
 1. Data Preprocessing:
