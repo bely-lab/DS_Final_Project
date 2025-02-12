@@ -7,18 +7,18 @@
 **Link to Article:** [IEEE Xplore](https://ieeexplore.ieee.org/document/9368923)
 
 ## Project Data: 
-You can download the dataset from the Mental Illness (OSMI) Survey here: https://www.kaggle.com/osmihelp/datasets
-
+The dataset used for this project is the Mental Illness (OSMI) 2019 Survey dataset, which includes data on employee mental health status, their work environments, and other relevant features. you can find here: https://www.kaggle.com/osmihelp/datasets
 ## Project Documentation:
-**Project overview** 
-This project aims to replicate the findings of the 2020 IEEE paper "Predicting Mental Health Disorders Using Machine Learning for Employees in Technical and Non-Technical Companies" by Rahul Katarya and Saurav Maan. The original paper explored the use of machine learning algorithms to predict mental health disorders among employees in both technical and non-technical companies. It used the Mental Illness (OSMI) Survey dataset to train and evaluate six machine learning models.
+### Project Overview
+This project aims to replicate the findings of the 2020 IEEE paper "Predicting Mental Health Disorders Using Machine Learning for Employees in Technical and Non-Technical Companies" by Rahul Katarya and Saurav Maan. The original paper explored the use of machine learning algorithms to predict mental health disorders among employees in both technical and non-technical companies. It used the (OSMI) Survey dataset to train and evaluate six machine learning models.
 The primary objectives of this replication project are to:
 - Validate the results presented in the paper.
 - Gain insights into the practical implementation of machine learning for predicting mental health disorders in the workplace.
 - Examine the performance of different machine learning models on the OSMI dataset.
 Additionally, a feature importance analysis is conducted to identify which factors are most predictive of mental health disorders in the workplace.
-
-**Project Workflow/Pipeline:**  
+### Folder/Module Structure
+project_root/ │ ├── data/ │ ├── raw_data.csv # Raw data from the OSMI Survey │ ├── unprocessed_data.csv # Data with selected features for training │ └── processed_data.csv # Cleaned and processed data for model training │ ├── notebooks/ │ ├── data_distribution_analysis.ipynb # Data distribution visualization and analysis │ ├── model_comparison.ipynb # Model comparison after training │ ├── feature_importance.ipynb # Feature importance analysis │ └── confusion_matrix.ipynb # Confusion matrix for model evaluation │ ├── src/ │ ├── train.py # Script for training machine learning models │ ├── models.py # Contains six different models for prediction (KNN, SVM, etc.) │ ├── main.py # Main script to initiate model training and analysis │ ├── utils.py # Helper functions for loading data and pre-processing │ ├── preprocess.py # Preprocessing functions for cleaning data and handling missing values │ └── logger.py # Logger functions for recording the progress of model training │ ├── test/ │ └── test_functions.py # Unit tests for major functions like data loading, preprocessing, and model evaluation │ └── README.md # Project documentation
+### Project Workflow/Pipeline: 
 The project follows these steps:
 1. Data Preprocessing:
    - Clean and transform raw data.
