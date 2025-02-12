@@ -51,7 +51,7 @@ The project follows these steps:
 4. Model Selection:
    - Train and evaluate seven models(The six models in the paper and one additional) including KNN, SVM, Random Forest,Decision tree, Naivebayes and XGBoost.
    
-For detailed  documentation, refer to the full project documentation in [Results/Documnetation.pdf](./Results/Documnetation.pdf)
+For detailed  documentation, refer to the full project documentation in [Results/Documnetation.pdf](../Results/Documnetation.pdf)
 
 ## To Run the Project:
 
