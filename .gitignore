@@ -5,7 +5,6 @@
 __pycache__/
 *.pdb
 venv/
-venv/
 .venv/
 .cache
 .mypy_cache/
